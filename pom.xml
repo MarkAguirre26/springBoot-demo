@@ -8,8 +8,8 @@
 		<version>2.5.0</version>
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
-	<groupId>net.javaguides</groupId>
-	<artifactId>springboot-starter</artifactId>
+	<groupId>com.javaruns</groupId>
+	<artifactId>springboot-demo</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<name>springBoot-_demo</name>
 	<description>Spring Boot Demo</description>
